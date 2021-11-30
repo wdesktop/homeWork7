@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">homeWork7</string>
+    <string name="text_enter_search_string">enter search string</string>
+    <string name="text_home_work_7">Home Work 7!</string>
+    <string name="button_last"><![CDATA[Last >]]></string>
+    <string name="button_prev"><![CDATA[< Prev]]></string>
+    <string name="button_search">button search</string>
 </resources>
